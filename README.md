@@ -6,7 +6,7 @@ This challenge allows you to practice the concepts and techniques learned over t
 - Measuring Success
 - Products & Ethics
 
-In your challenge this week, you will demonstrate understanding over these topics by responding to 2 prompts
+In your challenge this week, you will demonstrate understanding over these topics by responding to/Users/apotts/Desktop/Labs-Sprint-Challenge-1.1-Product-Vision/myfile.txt 2 prompts
 
 ## Instructions
 

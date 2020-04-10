@@ -1,0 +1,34 @@
+Labs23 Sprint Challenge 1 
+
+### Prompt 1
+
+Describe the conversations you had this sprint with your product owner(s) and team.
+
+- Describe the product and features you plan to deliver.
+
+  The product is an Event Organization based application for our stakeholder, The Historic North End Alliance. It will enable community members, as well as Businesses, to easily organize & attend local events. 
+  We had a meeting with our stakeholder from the Historic North End Alliance, Electra. One thing I really took away from that conversation was the want/ need for user accessibility. The user age range for this product will vary quite greatly, making the app easy & understandable for all ages was a key preference.  
+  The features we plan to deliver include User Registration for Autherization, Search Local Events, Attending Events with an RSVP, Notifications about your Event(s), Creating Events with Type Categorization.
+
+
+
+- How did these conversations determine the features you will deliver during Labs?
+  
+  These conversations helped us determine our features mostly because as Developers we understood exactly what Electra wanted with not only the Event Organization, but the ease of use for all of its Users which include her community members. 
+   Authenticity & Privacy was also discussed, which meant we needed to get the best login/registration system to ensure safe data management. 
+
+
+
+- How did your discussions change the way you viewed the product?
+
+  When we came into this project from what the past developers had built we were unsure about a lot of the implementation. After our discussions we realized that the key features need to be simple but sharp. This includes Registering, Finding & Creating with ease of use. We feel we have a good idea of exactly the kind of product Electra wants for her community. 
+
+### Prompt 2
+
+Describe the technical or design discussions that shaped the long-term product vision.
+
+- **For data scientists and engineers:** Describe the technologies that you will use to build this product. Why do they fit the product vision?
+  
+   The main technologies that will make this operate as a functional MVP mostly include GraphQL, Location Management & WebAuth. GraphQL fits our product due to its ability to avoid many issues that REST encounter which include things such as over & under fetching, data end points, model manipulation. For location management we have decided to change to MapKit due to its optimization with the iOS, having a smaller memory footprint, styles more aligned with Apple HIG & Free Usage. For WebAuth we chose to use due to its ability to access sign in with google or other accounts. Our only minor issue is that Apples new privacy policies require you to Sign In with Apple when using social media sign ins. 
+
+
